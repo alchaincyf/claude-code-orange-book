@@ -16,8 +16,10 @@ Written by someone who has never written a single line of code by hand, yet buil
 
 | Version | PDF |
 |---------|-----|
-| 中文版 (Chinese) | [**Claude-Code-从入门到精通-v260411.pdf**](Claude-Code-从入门到精通-v260411.pdf) |
+| 中文版 (Chinese) | [**Claude-Code-Complete-Guide-zh-v260411.pdf**](Claude-Code-Complete-Guide-zh-v260411.pdf) |
 | English | [**Claude-Code-The-Complete-Guide-v260411.pdf**](Claude-Code-The-Complete-Guide-v260411.pdf) |
+
+> 💡 Download the PDF for the best reading experience. GitHub's online preview may not render properly.
 
 ## What This Book Covers
 

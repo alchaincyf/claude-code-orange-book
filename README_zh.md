@@ -16,8 +16,10 @@
 
 | 版本 | PDF |
 |------|-----|
-| 中文版 | [**Claude-Code-从入门到精通-v260411.pdf**](Claude-Code-从入门到精通-v260411.pdf) |
+| 中文版 | [**Claude-Code-Complete-Guide-zh-v260411.pdf**](Claude-Code-Complete-Guide-zh-v260411.pdf) |
 | English | [**Claude-Code-The-Complete-Guide-v260411.pdf**](Claude-Code-The-Complete-Guide-v260411.pdf) |
+
+> 💡 PDF 文件建议下载后阅读，体验更佳。GitHub 在线预览可能无法完整渲染。
 
 ## 本书内容
 
