@@ -73,6 +73,13 @@ Creator of Kitty Light (小猫补光灯, App Store #1 Paid App), author of 7 Ora
 - WeChat Official Account: 花叔
 - Website: [huasheng.ai](https://www.huasheng.ai/)
 
+## 📚 Read Online on WorkBuddy
+
+This book is also available on WorkBuddy's knowledge base, one page per chapter — or just drop the link into your agent as context.
+
+https://www.workbuddy.cn/space/d/cY2uZj6drEgu
+
+All orange books: https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
