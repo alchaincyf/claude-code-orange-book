@@ -70,7 +70,7 @@
 
 本书已同步到 WorkBuddy 资料库：每章一个网页，也可以直接把链接丢给你的 Agent 当上下文。
 
-https://www.workbuddy.cn/space/d/cY2uZj6drEgu
+https://www.workbuddy.cn/space/d/cY2uZj6drEgu0MQnKRI0li
 
 全部橙皮书入口：https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## 许可证
