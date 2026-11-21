@@ -8,6 +8,10 @@
 
 > 橙皮书系列 · 花叔 著
 
+<!-- BOOK-PROMO-START 《图解Agent Skills》京东横幅，2026-12-21下线 -->
+<a href="https://item.jd.com/14829817.html"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/book-agent-skills-jd-b.jpg" alt="纸质书《图解Agent Skills：让AI记住你的工作方式》已上市，点击去京东购买" width="100%"></a>
+<!-- BOOK-PROMO-END -->
+
 面向工程师与产品经理的AI编程完全指南。从安装到独立构建产品，这本书覆盖了用Claude Code进行Agent式编程你需要知道的一切。
 
 作者从未手写过一行代码，却用AI做出了App Store付费榜第一的产品、出版了7本技术书、运营着30万粉丝的自媒体矩阵。

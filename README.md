@@ -8,6 +8,10 @@
 
 > Orange Book Series by HuaShu (花叔)
 
+<!-- BOOK-PROMO-START 《图解Agent Skills》京东横幅，2026-12-21下线 -->
+<a href="https://item.jd.com/14829817.html"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/book-agent-skills-jd-b.jpg" alt="The printed book (Chinese) 图解Agent Skills is out now. Click to buy on JD.com" width="100%"></a>
+<!-- BOOK-PROMO-END -->
+
 The definitive guide to Claude Code — Anthropic's terminal-native AI programming tool. From installation to shipping products, this book covers everything you need to become productive with agentic coding.
 
 Written by someone who has never written a single line of code by hand, yet built an App Store #1 paid app, published 7 technical books, and runs a 300K-follower content operation — all powered by AI.
